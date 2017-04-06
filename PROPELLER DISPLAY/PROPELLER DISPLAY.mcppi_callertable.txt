@@ -1,0 +1,16 @@
+main
+	__CC2DW
+	UART1_Init
+	time
+	UART1_Data_Ready
+	UART1_Read
+	UART1_Write
+	Div_16x16_S
+		Div_16x16_S_L
+	hello_world
+		show
+			elay_ms
+		elay_ms
+	show
+		elay_ms
+	elay_ms
