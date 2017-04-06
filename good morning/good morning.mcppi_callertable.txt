@@ -1,0 +1,12 @@
+main
+	__CC2DW
+	UART1_Init
+	UART1_Data_Ready
+	UART1_Read
+	hello_world
+		show
+			elay_us
+		elay_us
+	show
+		elay_us
+	elay_us
