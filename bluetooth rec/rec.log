@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -DL -O11111114 -fo4 -N"E:\notes\Project\S6\Mini Project\OUR\PIC program\bluetooth rec\rec.mcppi" -SP"F:\softwares\mikroC PRO for PIC\defs\" -SP"F:\softwares\mikroC PRO for PIC\uses\P18\" -SP"E:\notes\Project\S6\Mini Project\OUR\PIC program\bluetooth rec\" "rec.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_PrintOut.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_256.mcl" "__Lib_FLASH_w32_e64.mcl" "__Lib_I2C_b10.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_b10c7.mcl" "__Lib_UART_c67.mcl" "__Lib_USB_genHID.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Mmc.mcl" "__Lib_MmcFat16.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_TFT.mcl" "__Lib_TouchPanel_TFT.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 172 ms	 
+diagnostics: 0	122	Compilation Started	rec.c
+warning: 27	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	rec.c
+warning: 31	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	rec.c
+warning: 40	1506	Implicit conversion of pointer to int	rec.c
+diagnostics: 51	123	Compiled Successfully	rec.c
+diagnostics: 0	127	All files Compiled in 171 ms	 
+hint: 0	1144	Used RAM (bytes): 187 (9%)  Free RAM (bytes): 1840 (91%)	Used RAM (bytes): 187 (9%)  Free RAM (bytes): 1840 (91%)
+hint: 0	1144	Used ROM (bytes): 902 (3%)  Free ROM (bytes): 31866 (97%)	Used ROM (bytes): 902 (3%)  Free ROM (bytes): 31866 (97%)
+diagnostics: 0	125	Project Linked Successfully	rec.mcppi
+diagnostics: 0	128	Linked in 375 ms	 
+diagnostics: 0	129	Project 'rec.mcppi' completed: 1264 ms	 
+diagnostics: 0	103	Finished successfully: 17 Apr 2016, 12:32:19	rec.mcppi
