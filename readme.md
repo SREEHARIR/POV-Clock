@@ -1,0 +1,4 @@
+# Persistence Of Vision - POV Display
+### Bluetooth Enabled Persistance of Vision Display
+#
+This is the software and firmware side of the bluetooth enabled persistance of vision enabled clock. It consists of a propeller on which LEDs are mounted in a straight line. The propeller is rotated at high speed using a DC Motor and a IR notch sensor is used to detect the speed and in turn calculate the position of each LED. The LEDs are turned ON/OFF rapidly depending on their position in space. This creates the illusion that a whole circular display is being used to display messages because of the Persistence Of Vision of the human eye. The message can be changed while the propeller is spinning using a bluetooth connection from the phone/computer using a terminal to connect to the bluetooth module in the device.
